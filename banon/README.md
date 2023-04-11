@@ -23,6 +23,8 @@
 
 3. In this BANON case, take screwdriver, remove all screws from bottom of Chromebook, open case, and remove write protect screw - see Banon_wp.jpg . Add botton screws back.
 
+<img src="https://raw.githubusercontent.com/xet7/chromebook/main/banon/Banon_wp.jpg" width="60%" alt="Banon write protect screw" />
+
 4. Enable Developer Mode https://mrchromebox.tech/#devmode
 
 5. From ChromeOS login screen or guest mode, when connected to Internet via WLAN, press: `Ctrl+Alt+F2`
