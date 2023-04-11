@@ -6,6 +6,10 @@
 - In this case, installing to Acer Chromebook 15 (CB3-532), codename BANON, 2016 Intel Braswell.
 - This Chromebook has 2 GB RAM and 16 GB of internal storage. So Debian works, there is space for newest XFCE, Chrome, LibreOffice, Gimp, leaving 6 GB free disk space.
 
+## Video of booting Debian at Chromebook
+
+https://github.com/xet7/chromebook/releases/download/v1.0.0/chromebook-debian-boot.mp4
+
 ## What was tried, but not then used
 
 - Installing Linux Mint, because minimum install size 15 GB, too big for internal storage.
