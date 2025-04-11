@@ -1,4 +1,9 @@
-# Installing Debian Linux to Chromebook amd64
+# Chromebook arm64
+
+- https://web.archive.org/web/20240119035042/https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/
+- https://news.ycombinator.com/item?id=43642351
+
+# Chromebook amd64: Installing Debian Linux
 
 ## Why
 
