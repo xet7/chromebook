@@ -1,6 +1,6 @@
 # Chromebook arm64
 
-- https://web.archive.org/web/20240119035042/https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/
+- [Linux on ARM Chromebooks](arm.md)
 - https://news.ycombinator.com/item?id=43642351
 
 # Chromebook amd64: Installing Debian Linux
@@ -29,7 +29,7 @@ https://github.com/xet7/chromebook/releases/download/v1.0.0/chromebook-debian-bo
 - Cross screwdriver that fits to screws at bottom of your Chromebook, if your Chromebook model requires removing write protect screw, see https://wiki.galliumos.org/Hardware_Compatibility
 - USB stick that has FAT32 format, used to save ChromeOS stock firmware rom file, about 9 MB.
 - USB stick that has Debian 11 with non-free firmware. Use https://www.balena.io/etcher to flash this .iso to USB stick: 
-  https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.6.0+nonfree/amd64/iso-cd/firmware-11.6.0-amd64-netinst.iso
+  https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 
 ## Installing
 
