@@ -165,9 +165,9 @@ WHERE IT IS:     |
 cd; curl -LO mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh
 ```
 
-12. Install UEFI (Full ROM) Firmware.
+12. Install UEFI (Full ROM) Firmware. Then disconnect USB power, connect battery to Chromebook mainboard, add plastic bottom cover and add back screws. But I was not able to put back middle screw that was previously below sticker.
 
-13. After install, put Linux Mint USB stick to Chromebook. When booting Chromebook there is white rabbit logo, press Esc to get to menu where select USB boot.
+13. Put Linux Mint USB stick to Chromebook. When booting Chromebook there is white rabbit logo, press Esc to get to menu where select USB boot.
 
 14. Install Linux mint to internal MMC drive. (Alternatively, you could install for example to microSD or SD, and set computer to boot from that at UEFI settings).
 
